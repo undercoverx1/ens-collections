@@ -1275,6 +1275,16 @@
 			"logo": "spanish-animals.png",
 			"csv": ["spanish-animals.csv"]
 		},
+		{
+			"name": "id 99",
+			"slug": "id-99",
+			"description": "Names with 2 Emoji Digits beginning in 🆔.",
+			"twitter": "https://twitter.com/id99club",
+			"chat": "",
+			"website": "",
+			"logo": "ethmoji-id-99-club.png",
+			"csv": ["id-99.csv"]
+		}
    ]
 }
 		
